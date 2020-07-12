@@ -239,12 +239,6 @@
                             <constraint firstItem="fWZ-b4-tab" firstAttribute="leading" secondItem="XeH-xd-pqU" secondAttribute="leading" constant="20" id="yOI-je-nkq"/>
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="XeH-xd-pqU"/>
-                        <variation key="default">
-                            <mask key="subviews">
-                                <exclude reference="fWZ-b4-tab"/>
-                                <exclude reference="6mx-6d-DFk"/>
-                            </mask>
-                        </variation>
                     </view>
                     <navigationItem key="navigationItem" title="Вопрос №" id="iPA-I2-Ph5">
                         <barButtonItem key="rightBarButtonItem" title="Result" id="2Xp-0M-dPN">
